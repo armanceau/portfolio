@@ -1,0 +1,26 @@
+[
+  {
+    "titre": "ScoreUp",
+    "description": "Plateforme permettant de compter les points de manière dynamique sur différents jeux à faire en groupe.",
+    "url": "https://scoreup.vercel.app/",
+    "tags": ["Next.js", "TypeScript", "React", "Supabase"]
+  },
+  {
+    "titre": "KeskonMange",
+    "description": "Application web générant des recettes à partir des ingrédients disponibles dans son frigo.",
+    "url": "https://keskonmange.vercel.app/",
+    "tags": ["TypeScript", "React", "Mistral AI"]
+  },
+  {
+    "titre": "Codewars-activity",
+    "description": "API to get a chart like github activity with the count of the katas completed per day in Codewars by a user by year.",
+    "url": "https://codewars-activity.vercel.app/",
+    "tags": ["React", "Express"]
+  },
+  {
+    "titre": "KataHub",
+    "description": "Plateforme de recueil de multiples exercices.",
+    "url": "https://katahub.vercel.app/",
+    "tags": ["Html", "css", "JavaScript"]
+  }
+]
