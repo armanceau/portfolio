@@ -21,6 +21,6 @@
     "titre": "KataHub",
     "description": "Plateforme de recueil de multiples exercices.",
     "url": "https://katahub.vercel.app/",
-    "tags": ["Html", "css", "JavaScript"]
+    "tags": ["Html", "CSS", "JavaScript"]
   }
 ]
