@@ -22,5 +22,11 @@
     "description": "Plateforme de recueil de multiples exercices.",
     "url": "https://katahub.vercel.app/",
     "tags": ["Html", "CSS", "JavaScript"]
+  },
+  {
+    "titre": "ScanCare",
+    "description": "Plateforme web et mobile de scan d'ordonnance médical avec reconnaissance par ia et gestion de rappels de médicaments.",
+    "url": "https://scan-care.vercel.app/",
+    "tags": ["React native", "Mistral AI", "TypeScript"]
   }
 ]
