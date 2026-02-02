@@ -24,6 +24,12 @@
     "tags": ["Html", "CSS", "JavaScript"]
   },
   {
+    "titre": "Axelle à table",
+    "description": "Plateforme web collaborative permettant aux utilisateurs de planifier et organiser leurs repas en groupe en temps réel.",
+    "url": "https://axelle-a-table.vercel.app/",
+    "tags": ["Next.js", "TypeScript", "React", "Supabase"]
+  },
+  {
     "titre": "ScanCare",
     "description": "Plateforme web et mobile de scan d'ordonnance médical avec reconnaissance par ia et gestion de rappels de médicaments.",
     "url": "https://scan-care.vercel.app/",
