@@ -1,5 +1,11 @@
 [
   {
+    "titre": "Guide du bon développeur",
+    "description": "Documentation interactive illustrant les bonnes pratiques d'ingénierie logicielle.",
+    "url": "https://guide-du-bon-developpeur.vercel.app",
+    "tags": ["Storybook"]
+  },
+  {
     "titre": "ScoreUp",
     "description": "Plateforme permettant de compter les points de manière dynamique sur différents jeux à faire en groupe.",
     "url": "https://scoreup.vercel.app/",
