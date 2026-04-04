@@ -12,10 +12,10 @@
     "tags": ["Next.js", "TypeScript", "React", "Supabase"]
   },
   {
-    "titre": "KeskonMange",
-    "description": "Application web générant des recettes à partir des ingrédients disponibles dans son frigo.",
-    "url": "https://keskonmange.vercel.app/",
-    "tags": ["TypeScript", "React", "Mistral AI"]
+    "titre": "Axelle à table",
+    "description": "Plateforme web collaborative permettant aux utilisateurs de planifier et organiser leurs repas en groupe en temps réel.",
+    "url": "https://axelle-a-table.vercel.app/",
+    "tags": ["Next.js", "TypeScript", "React", "Supabase", "Mistral AI"]
   },
   {
     "titre": "Codewars-activity",
@@ -24,16 +24,16 @@
     "tags": ["React", "Express"]
   },
   {
+    "titre": "KeskonMange",
+    "description": "Application web générant des recettes à partir des ingrédients disponibles dans son frigo.",
+    "url": "https://keskonmange.vercel.app/",
+    "tags": ["TypeScript", "React", "Mistral AI"]
+  },
+  {
     "titre": "KataHub",
     "description": "Plateforme de recueil de multiples exercices.",
     "url": "https://katahub.vercel.app/",
     "tags": ["Html", "CSS", "JavaScript"]
-  },
-  {
-    "titre": "Axelle à table",
-    "description": "Plateforme web collaborative permettant aux utilisateurs de planifier et organiser leurs repas en groupe en temps réel.",
-    "url": "https://axelle-a-table.vercel.app/",
-    "tags": ["Next.js", "TypeScript", "React", "Supabase"]
   },
   {
     "titre": "ScanCare",
